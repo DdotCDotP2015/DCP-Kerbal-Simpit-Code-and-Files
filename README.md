@@ -5,13 +5,21 @@ Arduino Code and 3D print files for my kerbal simpit
    It controls x Buttons, Throttle, y Toggle switches
    If you are brand new, I suggest getting the Arduino starter kit
    and completing the following tutorials:
+   
       . Code Structure: https://arduinogetstarted.com/tutorials/arduino-code-structure
+      
       . Serial Monitor: https://arduinogetstarted.com/tutorials/arduino-serial-monitor
+      
       . LED Blink: https://arduinogetstarted.com/tutorials/arduino-led-blink
+      
       . Button: https://arduinogetstarted.com/tutorials/arduino-button
+      
       . On-Off Switch: https://arduinogetstarted.com/tutorials/arduino-switch
+      
       . Debounce: https://arduinogetstarted.com/tutorials/arduino-button-debounce
+      
       . EZButton: https://arduinogetstarted.com/tutorials/arduino-button-library
+      
       . Potentiometer: https://arduinogetstarted.com/tutorials/arduino-potentiometer
 
       They're super easy and quick, and should give you just enough knowledge to know what's going on below.
